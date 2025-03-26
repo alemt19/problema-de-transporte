@@ -1,0 +1,7 @@
+{
+    "origen": ["LA", "Detroit", "New Orleans"],
+    "destino": ["Denver", "Miami"],
+    "oferta": [1000, 1500, 1200],
+    "demanda": [2300, 1400],
+    "costo_envio": [80, 215, 100, 108, 102, 68]
+  }
